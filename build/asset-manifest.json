@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28836c7d.css",
+    "main.js": "/static/js/main.d8afce17.js",
+    "static/js/453.c125bea3.chunk.js": "/static/js/453.c125bea3.chunk.js",
+    "static/media/header-img.png": "/static/media/header-img.2b93692ad205237984d7.png",
+    "static/media/fontawesome-webfont3e6e.svg?v=4.7.0": "/static/media/fontawesome-webfont3e6e.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bootstrap.css.map": "/static/media/bootstrap.css.2865d04039146b272b09.map",
+    "static/media/Montserrat-SemiBoldItalic.ttf": "/static/media/Montserrat-SemiBoldItalic.a36e54bad627c56dc2ed.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.34270926ef09970234f5.ttf",
+    "static/media/fontawesome-webfont3e6e.eot?v=4.7.0": "/static/media/fontawesome-webfont3e6e.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfontd41d.eot": "/static/media/fontawesome-webfontd41d.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont3e6e.ttf?v=4.7.0": "/static/media/fontawesome-webfont3e6e.1e59d2330b4c6deb84b3.ttf",
+    "static/media/hello-background.jpg": "/static/media/hello-background.37258b1edb81be977d6c.jpg",
+    "static/media/freelancer.png": "/static/media/freelancer.9e4c3484fa781501255c.png",
+    "static/media/fontawesome-webfont3e6e.woff?v=4.7.0": "/static/media/fontawesome-webfont3e6e.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont3e6e.woff2?v=4.7.0": "/static/media/fontawesome-webfont3e6e.20fd1704ea223900efa9.woff2",
+    "static/media/1.jpg": "/static/media/1.ac0a95df4b252f167b4c.jpg",
+    "static/media/freelancer-back.jpg": "/static/media/freelancer-back.c52d110f42c074f731f7.jpg",
+    "static/media/work-exp.png": "/static/media/work-exp.2799de4f41eae7f21ae5.png",
+    "index.html": "/index.html",
+    "main.28836c7d.css.map": "/static/css/main.28836c7d.css.map",
+    "main.d8afce17.js.map": "/static/js/main.d8afce17.js.map",
+    "453.c125bea3.chunk.js.map": "/static/js/453.c125bea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28836c7d.css",
+    "static/js/main.d8afce17.js"
+  ]
+}
